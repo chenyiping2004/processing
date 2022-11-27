@@ -1,2 +1,4 @@
 ## test folder for processing work 
 这个作品尝试呈现SOL LEWITT的作品结构，并添加一些动态
+
+work 3 尝试去随机蒙德里安的构成方法，并添加自己的配色，在尝试一些或许存在的规律并且通过程度多次观察
